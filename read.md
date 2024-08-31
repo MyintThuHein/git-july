@@ -1,4 +1,5 @@
 git init
+git remote add origin github_url -> github က repo နဲ့ချိတ်
 git add . file တွေကိုအကုန်ထည့်
 git commit -m "message" commit ပေးဖို့အတွက် နာမည်ပေးရတယ်
 
